@@ -15,7 +15,8 @@ The application allows users to upload a histopathology image patch and predicts
 ## 📸 Application Preview
 
 <p align="center">
-<img src="ex.png" width="700">
+<img src="breast_cancer_webpage.jpg
+        " width="700">
 </p>
 
 ---
